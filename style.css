@@ -5,6 +5,7 @@
 html {
   width: 1280px;
   scroll-behavior: smooth;
+  justify-self: center;
 }
 body {
   height: 3473px;
