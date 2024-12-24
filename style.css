@@ -94,7 +94,7 @@ body {
   #header-img-1 {
     width: 480px;
     height: 360px;
-    background-image: url(/img/headerimg1.png);
+    background-image: url(./img/headerimg1.png);
   }
 }
 
